@@ -10,5 +10,16 @@
   },
   "homepage": "https://dataflows.com.au/integrations/claude",
   "license": "MIT",
-  "keywords": ["sms", "text messages", "bulk sms", "campaigns", "australia"]
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://dataflows.com.au/integrations/claude",
+  "supportUrl": "https://dataflows.com.au/contact-us",
+  "privacyPolicyUrl": "https://dataflows.com.au/privacy-policy",
+  "termsOfServiceUrl": "https://dataflows.com.au/terms-of-use",
+  "keywords": [
+    "sms",
+    "text messages",
+    "bulk sms",
+    "campaigns",
+    "australia"
+  ]
 }

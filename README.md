@@ -1,4 +1,4 @@
-<img src="assets/logo.png" alt="DataFlows SMS" width="96">
+<img src="assets/icon.png" alt="DataFlows SMS" width="96">
 
 # DataFlows SMS for Claude
 
