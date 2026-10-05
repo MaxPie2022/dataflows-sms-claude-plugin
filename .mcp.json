@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dataflows-sms": {
+      "type": "http",
+      "url": "https://sms.dataflows.com.au/mcp/claude"
+    }
+  }
+}
