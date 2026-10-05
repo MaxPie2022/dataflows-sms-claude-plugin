@@ -1,7 +1,7 @@
 {
   "name": "dataflows-sms",
   "displayName": "DataFlows SMS",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Send, schedule and track business SMS from your DataFlows account in plain language: single messages, contact group campaigns, previews with cost and compliance warnings, delivery status, replies and usage.",
   "author": {
     "name": "DataFlows Australia Pty Ltd",
