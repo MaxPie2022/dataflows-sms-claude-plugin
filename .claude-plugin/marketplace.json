@@ -1,0 +1,25 @@
+{
+  "name": "dataflows",
+  "description": "Official DataFlows plugins for Claude Code, published by DataFlows Australia Pty Ltd.",
+  "owner": {
+    "name": "DataFlows Australia Pty Ltd",
+    "email": "support@dataflows.com.au"
+  },
+  "plugins": [
+    {
+      "name": "dataflows-sms",
+      "source": "./",
+      "description": "Send, schedule and track business SMS from your DataFlows account in plain language.",
+      "version": "1.0.1",
+      "author": {
+        "name": "DataFlows Australia Pty Ltd",
+        "email": "support@dataflows.com.au",
+        "url": "https://dataflows.com.au"
+      },
+      "homepage": "https://dataflows.com.au/integrations/claude",
+      "repository": "https://github.com/dataflows-au/dataflows-sms-claude-plugin",
+      "license": "MIT",
+      "keywords": ["sms", "text messages", "bulk sms", "campaigns", "australia"]
+    }
+  ]
+}

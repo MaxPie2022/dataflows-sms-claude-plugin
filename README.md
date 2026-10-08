@@ -4,6 +4,30 @@
 
 Send, schedule and track business SMS from your DataFlows account by asking Claude in plain language. The plugin connects Claude to the DataFlows SMS connector and adds skills that guide Claude to confirm every send, preview cost and compliance warnings before contact group campaigns, and report delivery and replies clearly.
 
+This is the official DataFlows plugin, published by DataFlows Australia Pty Ltd. See [dataflows.com.au/integrations/claude](https://dataflows.com.au/integrations/claude). The connector it uses is also listed in Anthropic's [Claude directory](https://claude.ai/directory/connectors/dataflows-sms).
+
+## Install
+
+In Claude Code:
+
+```
+/plugin marketplace add dataflows-au/dataflows-sms-claude-plugin
+/plugin install dataflows-sms@dataflows
+```
+
+Or from your shell:
+
+```
+claude plugin marketplace add dataflows-au/dataflows-sms-claude-plugin
+claude plugin install dataflows-sms@dataflows
+```
+
+To add only the connector, without the skills:
+
+```
+claude mcp add --transport http dataflows-sms https://sms.dataflows.com.au/mcp/claude
+```
+
 ## What you need
 
 * A [DataFlows](https://dataflows.com.au) account with SMS credits

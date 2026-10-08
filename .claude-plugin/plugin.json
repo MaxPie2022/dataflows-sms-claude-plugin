@@ -9,6 +9,7 @@
     "url": "https://dataflows.com.au"
   },
   "homepage": "https://dataflows.com.au/integrations/claude",
+  "repository": "https://github.com/dataflows-au/dataflows-sms-claude-plugin",
   "license": "MIT",
   "icon": "./assets/icon.png",
   "documentationUrl": "https://dataflows.com.au/integrations/claude",
